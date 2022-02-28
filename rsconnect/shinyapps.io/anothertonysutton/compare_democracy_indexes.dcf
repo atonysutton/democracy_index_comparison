@@ -1,0 +1,14 @@
+name: compare_democracy_indexes
+title: compare_democracy_indexes
+username:
+account: anothertonysutton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5501762
+bundleId: 5530968
+url: https://anothertonysutton.shinyapps.io/compare_democracy_indexes/
+when: 1643725940.77003
+lastSyncTime: 1643725940.77003
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: democracy_index_comparison_app.R
